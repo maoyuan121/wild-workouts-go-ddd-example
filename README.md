@@ -95,3 +95,8 @@ If you need help, feel free to contact us at https://threedots.tech
 ![Wild Workouts login](https://threedots.tech/media/serverless-cloud-run-firebase-modern-go-app/login.png "Logo Title Text 1")
 ![Wild Workouts trainer's schedule](https://threedots.tech/media/serverless-cloud-run-firebase-modern-go-app/schedule.png "Logo Title Text 1")
 ![Wild Workouts schedule training](https://threedots.tech/media/serverless-cloud-run-firebase-modern-go-app/new-training.png "Logo Title Text 1")
+
+|--adapters 仓储实现 & 服务实现
+|--app query & command
+|--domain  领域实体 & 及其业务方法 & 仓储接口
+|--ports api 接口 和 grpc 实现
